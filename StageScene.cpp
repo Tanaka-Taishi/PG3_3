@@ -9,7 +9,6 @@ void StageScene::Update() {
 		sceneNo = kClear;
 		SceneChangeTimer = 10;
 
-		
 		enemyPosX = 640;
 		enemyPosY = 360;
 
